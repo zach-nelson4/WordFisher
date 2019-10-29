@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resource xmlns="http://www.wxwidgets.org/wxxrc" version="2.5.3.0">
+	<object class="wxDialog" name="ViewerDialog">
+		<title>Wordfisher</title>
+		<centered>1</centered>
+		<size>451,436</size>
+		<style>wxDEFAULT_DIALOG_STYLE|wxCLOSE_BOX|wxFRAME_SHAPED</style>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL1">
+			<pos>104,88</pos>
+			<size>240,24</size>
+		</object>
+		<object class="wxButton" name="ID_BUTTON1">
+			<label>Ok</label>
+			<pos>48,192</pos>
+		</object>
+		<object class="wxButton" name="ID_BUTTON2">
+			<label>Cancel</label>
+			<pos>328,192</pos>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL2">
+			<pos>24,152</pos>
+			<size>152,24</size>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL3">
+			<pos>280,152</pos>
+			<size>152,24</size>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT1">
+			<label>Filename:</label>
+			<pos>24,88</pos>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT2">
+			<label>Search:</label>
+			<pos>24,120</pos>
+			<size>128,24</size>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT3">
+			<label>Replace:</label>
+			<pos>280,120</pos>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT4">
+			<label>Wordfisher</label>
+			<pos>96,8</pos>
+			<font>
+				<size>40</size>
+				<style>normal</style>
+				<weight>normal</weight>
+				<underlined>0</underlined>
+				<face>Impact</face>
+			</font>
+		</object>
+		<object class="wxButton" name="ID_BUTTON3">
+			<label>Browse</label>
+			<pos>352,88</pos>
+			<size>72,24</size>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT5">
+			<label>Change History</label>
+			<pos>160,240</pos>
+			<font>
+				<size>14</size>
+				<style>normal</style>
+				<weight>normal</weight>
+				<underlined>0</underlined>
+				<family>swiss</family>
+				<face>Sans</face>
+			</font>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT6">
+			<label>Filename</label>
+			<pos>24,272</pos>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT7">
+			<label>Replaced:</label>
+			<pos>168,272</pos>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT8">
+			<label>With:</label>
+			<pos>272,272</pos>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL4">
+			<pos>8,296</pos>
+			<size>128,32</size>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL5">
+			<pos>160,296</pos>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL6">
+			<pos>264,296</pos>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL7">
+			<pos>8,344</pos>
+			<size>128,32</size>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL8">
+			<pos>160,344</pos>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL9">
+			<pos>264,344</pos>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL10">
+			<pos>8,392</pos>
+			<size>128,32</size>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL11">
+			<pos>160,392</pos>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL12">
+			<pos>264,392</pos>
+		</object>
+		<object class="wxButton" name="ID_BUTTON5">
+			<label>Undo</label>
+			<pos>352,296</pos>
+		</object>
+		<object class="wxButton" name="ID_BUTTON6">
+			<label>Undo</label>
+			<pos>352,344</pos>
+		</object>
+		<object class="wxButton" name="ID_BUTTON7">
+			<label>Undo</label>
+			<pos>352,392</pos>
+		</object>
+		<object class="wxButton" name="ID_BUTTON4">
+			<label>Refresh</label>
+			<pos>312,240</pos>
+			<size>64,24</size>
+		</object>
+	</object>
+</resource>

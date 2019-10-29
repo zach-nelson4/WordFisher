@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resource xmlns="http://www.wxwidgets.org/wxxrc" version="2.5.3.0">
+	<object class="wxDialog" name="SuccesfullyReplaced">
+		<title>Dialog</title>
+		<centered>1</centered>
+		<size>392,109</size>
+		<object class="wxStaticText" name="ID_STATICTEXT1">
+			<label>Succesfully Replaced!</label>
+			<pos>120,24</pos>
+		</object>
+		<object class="wxButton" name="ID_BUTTON1">
+			<label>Ok</label>
+			<pos>152,64</pos>
+		</object>
+	</object>
+</resource>
