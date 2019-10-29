@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<resource_extra>
+		<object root="1" />
+		<object name="ID_TEXTCTRL1" class="wxTextCtrl" variable="TextCtrl1" member="yes" />
+		<object name="ID_BUTTON1" class="wxButton" variable="Button1" member="yes" />
+		<object name="ID_BUTTON2" class="wxButton" variable="Button2" member="yes" />
+		<object name="ID_TEXTCTRL2" class="wxTextCtrl" variable="TextCtrl2" member="yes" />
+		<object name="ID_TEXTCTRL3" class="wxTextCtrl" variable="TextCtrl3" member="yes" />
+		<object name="ID_STATICTEXT1" class="wxStaticText" variable="StaticText1" member="yes" />
+		<object name="ID_STATICTEXT2" class="wxStaticText" variable="StaticText2" member="yes" />
+		<object name="ID_STATICTEXT3" class="wxStaticText" variable="StaticText3" member="yes" />
+		<object name="ID_STATICTEXT4" class="wxStaticText" variable="StaticText4" member="yes" />
+		<object name="ID_BUTTON3" class="wxButton" variable="Button3" member="yes" />
+		<object name="ID_STATICTEXT5" class="wxStaticText" variable="StaticText5" member="yes" />
+		<object name="ID_STATICTEXT6" class="wxStaticText" variable="StaticText6" member="yes" />
+		<object name="ID_STATICTEXT7" class="wxStaticText" variable="StaticText7" member="yes" />
+		<object name="ID_STATICTEXT8" class="wxStaticText" variable="StaticText8" member="yes" />
+		<object name="ID_TEXTCTRL4" class="wxTextCtrl" variable="TextCtrl4" member="yes" />
+		<object name="ID_TEXTCTRL5" class="wxTextCtrl" variable="TextCtrl5" member="yes" />
+		<object name="ID_TEXTCTRL6" class="wxTextCtrl" variable="TextCtrl6" member="yes" />
+		<object name="ID_TEXTCTRL7" class="wxTextCtrl" variable="TextCtrl7" member="yes" />
+		<object name="ID_TEXTCTRL8" class="wxTextCtrl" variable="TextCtrl8" member="yes" />
+		<object name="ID_TEXTCTRL9" class="wxTextCtrl" variable="TextCtrl9" member="yes" />
+		<object name="ID_TEXTCTRL10" class="wxTextCtrl" variable="TextCtrl10" member="yes" />
+		<object name="ID_TEXTCTRL11" class="wxTextCtrl" variable="TextCtrl11" member="yes" />
+		<object name="ID_TEXTCTRL12" class="wxTextCtrl" variable="TextCtrl12" member="yes" />
+		<object name="ID_BUTTON5" class="wxButton" variable="Button5" member="yes" />
+		<object name="ID_BUTTON6" class="wxButton" variable="Button6" member="yes" />
+		<object name="ID_BUTTON7" class="wxButton" variable="Button7" member="yes" />
+		<object name="ID_BUTTON4" class="wxButton" variable="Button4" member="yes" />
+	</resource_extra>
+</wxsmith>

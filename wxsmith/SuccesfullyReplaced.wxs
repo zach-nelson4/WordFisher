@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<resource_extra>
+		<object root="1">
+			<handler function="OnInit" entry="EVT_INIT_DIALOG" />
+		</object>
+		<object name="ID_STATICTEXT1" class="wxStaticText" variable="StaticText1" member="yes" />
+		<object name="ID_BUTTON1" class="wxButton" variable="Button1" member="yes">
+			<handler function="OnButton1Click" entry="EVT_BUTTON" />
+		</object>
+	</resource_extra>
+</wxsmith>
